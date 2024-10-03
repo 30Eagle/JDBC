@@ -4,6 +4,8 @@ import java.sql.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
+    	
+    	// 1st changes
         // Database connection details
         String url = "jdbc:mysql://localhost:3306/jfsd"; // Database URL
         String username = "root"; // MySQL username
